@@ -1,3 +1,3 @@
-module github.com/gallachaitanya/Deck.git
+module github.com/gallachaitanya/Deck
 
 go 1.20
